@@ -1,6 +1,6 @@
 # Clipboard Website
 
-Netlify deployment of website: https://stalwart-flan-1fcff6.netlify.app/
+Netlify deployment of website: https://startling-muffin-b0e2d3.netlify.app/
 
 ## Usage
 
